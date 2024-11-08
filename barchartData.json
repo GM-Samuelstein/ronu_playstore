@@ -1,0 +1,32 @@
+{
+    "modifiedBarchartData": [
+        {
+            "pollOption": "England",
+            "maleVoters": 0,
+            "femaleVoters": 0,
+            "18to34": 0,
+            "35to55": 0,
+            "over55": 0,
+            "male18to34": 0,
+            "female18to34": 0,
+            "male35to55": 0,
+            "female35to55": 0,
+            "maleAbove55": 0,
+            "femaleAbove55": 0
+        },
+        {
+            "pollOption": "Spain",
+            "maleVoters": 0,
+            "femaleVoters": 0,
+            "18to34": 0,
+            "35to55": 0,
+            "over55": 0,
+            "male18to34": 0,
+            "female18to34": 0,
+            "male35to55": 0,
+            "female35to55": 0,
+            "maleAbove55": 0,
+            "femaleAbove55": 0
+        }
+    ]
+}
