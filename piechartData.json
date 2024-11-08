@@ -2,11 +2,11 @@
     "modifiedPiechartData": [
         {
             "optionText": "England",
-            "optionValue": 4
+            "optionValue": 10
         },
         {
             "optionText": "Spain",
-            "optionValue": 5
+            "optionValue": 12
         }
     ]
 }
