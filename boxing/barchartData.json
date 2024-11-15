@@ -2,31 +2,31 @@
     "modifiedBarchartData": [
         {
             "pollOption": "Jake Paul",
-            "maleVoters": 2,
-            "femaleVoters": 4,
-            "18to34": 5,
-            "35to55": 1,
-            "over55": 0,
-            "male18to34": 2,
-            "female18to34": 3,
-            "male35to55": 0,
+            "maleVoters": 2758,
+            "femaleVoters": 41,
+            "18to34": 1565,
+            "35to55": 1023,
+            "over55": 211,
+            "male18to34": 1555,
+            "female18to34": 10,
+            "male35to55": 1022,
             "female35to55": 1,
-            "maleAbove55": 0,
+            "maleAbove55": 211,
             "femaleAbove55": 0
         },
         {
             "pollOption": "Mike Tyson",
-            "maleVoters": 6,
-            "femaleVoters": 1,
-            "18to34": 4,
-            "35to55": 2,
-            "over55": 1,
-            "male18to34": 3,
-            "female18to34": 1,
-            "male35to55": 2,
-            "female35to55": 0,
-            "maleAbove55": 1,
-            "femaleAbove55": 0
+            "maleVoters": 2772,
+            "femaleVoters": 19,
+            "18to34": 500,
+            "35to55": 755,
+            "over55": 1517,
+            "male18to34": 500,
+            "female18to34": 0,
+            "male35to55": 720,
+            "female35to55": 35,
+            "maleAbove55": 1400,
+            "femaleAbove55": 117
         }
     ]
 }
