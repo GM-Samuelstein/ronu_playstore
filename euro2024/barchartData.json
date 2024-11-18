@@ -2,7 +2,7 @@
     "modifiedBarchartData": [
         {
             "pollOption": "England",
-            "maleVoters": 470,
+            "maleVoters": 479,
             "femaleVoters": 47,
             "18to34": 317,
             "35to55": 200,
@@ -11,7 +11,7 @@
             "female18to34": 30,
             "male35to55": 183,
             "female35to55": 17,
-            "maleAbove55": 0,
+            "maleAbove55": 9,
             "femaleAbove55": 0
         },
         {
